@@ -1,2 +1,0 @@
-# promisedLand
-Created with CodeSandbox
